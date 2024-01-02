@@ -5,7 +5,7 @@ package x;
     int n=0;
     class a{
         int m=1;
-        public  void k(){
+        public  void k(){ 
 
             System.out.println(m);
 
