@@ -10,7 +10,7 @@ package x;
             System.out.println(m);
 
         }
-
+ 
     }
     public void shout(){
         a q=new a();
